@@ -16,6 +16,7 @@ Welcome to my GitHub! I’m a data scientist and AI enthusiast with a passion fo
 ## 📫 How to reach me:
 - https://www.linkedin.com/in/arjun-bali
 - Email: arjun.bali2012@gmail.com
+- www.arjun-bali.com
 
 ## ⚡ Fun Fact
 I love to solve problems, play sports, feel free to reach out :)
