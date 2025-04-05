@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Arjun 
 
 Welcome to my GitHub! I’m a data scientist and AI enthusiast with a passion for building intelligent systems that solve real-world problems.
